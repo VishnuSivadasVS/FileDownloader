@@ -10,8 +10,9 @@ Simply create an object for the class FileDownloader.
 $ob = new FileDownloader();
 ```
 Call the fileDownloaderMain() and pass the file url as its argument. 
+```
 $ob->fileDownloaderMain($url);
-
+```
 ## Authors
 
 * **Vishnu Sivadas** - *Developer* - [Website](https://www.vishnusivadas.com/)
