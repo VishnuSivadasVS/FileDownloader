@@ -7,7 +7,7 @@ require "FileDownloader.php";
 ```
 Simply create an object for the class FileDownloader.
 ```
-$ob = new FileDownloader();
+$ob = new FileDownloader($url);
 ```
 Call the fileDownloaderMain() and pass the file url as its argument. 
 $ob->fileDownloaderMain($url);
