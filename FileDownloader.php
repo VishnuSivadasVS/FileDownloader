@@ -223,3 +223,4 @@ class FileDownloader{
         $this->force_download($url,$filename,$mime);
     }
 }
+?>
