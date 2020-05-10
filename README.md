@@ -15,6 +15,8 @@ Call the fileDownloaderMain() and pass the file url as its argument.
 ```
 $ob->fileDownloaderMain($url);
 ```
+Feel free to report any issues related to this.
+
 ## Authors
 
 * **Vishnu Sivadas** - *Developer* - [Website](https://www.vishnusivadas.com/)
