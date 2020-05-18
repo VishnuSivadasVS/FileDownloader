@@ -1,5 +1,5 @@
 # FileDownloader
-[![Vishnu Sivadas](https://www.vishnusivadas.com/github/opensource.svg?style=flat)](https://github.com/VishnuSivadasVS)
+[![Vishnu Sivadas](https://www.vishnusivadas.com/github/codequality.svg?style=flat)](https://github.com/VishnuSivadasVS)
 
 Download a file with on click on a button. How to handle all the header properly so that you can download the file in one click.
 ## How to use?
